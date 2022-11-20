@@ -11,6 +11,25 @@ git clone https://github.com/AshleyRoakes/CSE6250-Project.git
 cd CSE6250-Project
 ```
 
+# Get the data
+Access is needed to retrieve the MIMICIII data
+
+```
+cd data
+mkdir mimic-iii-clinical-database-1.4
+cd ..
+```
+
+Download and add the following files to the created mimic-iii-clinical-database-1.4 folder
+
+
+- D_ICD_DIAGNOSES.csv.gz
+- D_ICD_PROCEDURES.csv.gz
+- DIAGNOSES_ICD.csv.gz
+- NOTEEVENTS.csv.gz
+- PROCEDURES_ICD.csv.gz
+
+
 # DOCKER
 
 ```
