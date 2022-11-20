@@ -1,0 +1,4 @@
+model/*.embed
+model/*.w2v
+data/mimic-iii-clinical-database-1.4
+data/stanford-postagger-full-2020-11-17

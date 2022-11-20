@@ -1,0 +1,12 @@
+pandas
+matplotlib
+numpy
+nltk
+scikit-learn
+gensim
+pyhealth
+torch
+tqdm
+rdkit
+networkx
+jupyter 
