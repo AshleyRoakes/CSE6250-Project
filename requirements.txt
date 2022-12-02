@@ -9,4 +9,5 @@ torch
 tqdm
 rdkit
 networkx
-jupyter 
+jupyter
+tensorflow 
